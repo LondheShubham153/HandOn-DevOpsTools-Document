@@ -67,23 +67,23 @@ Created this Repository to share the HandsOn Document, which will help everyone 
 
 ## Gitlab Fundamentals Hands On Document Contains
 
-- Table of Contents:
-- Step-1 : Gitlab Account
-- Step-2 : Create a Group & Project
+Table of Contents:
+- Step-1 : Create a Gitlab Account
+- Step-2 : Create a new Group & Project
 - Create a New Group
 - Create a New Project
-- Demo Pipeline
-- Parallel Jobs
+- Setting up a Demo Pipeline
+- Parallel Jobs in the Pipeline
 - Step-3: Variables Types
 - Predefined variables
-- Predefined CI/CD Variables Reference
+  - Predefined CI/CD Variables Reference
 - User Defined Variables:
-- (a) Project Level Variable Define:
-- Generate the Personal Access Token on Docker Hub
-- (b) Group Level Variable Define:
+  - (a) Project Level Variable Define:
+    - Generate the Personal Access Token on Docker Hub
+  - (b) Group Level Variable Define:
 - Step-4 Gitlab Runners
 - Install the Gitlab Runner
-- Gitlab runner status
+- Check Gitlab runner status
 - Gitlab runner Service status
 - Register the Gitlab Runner
 - Step-5:  Project Import from
@@ -92,9 +92,9 @@ Created this Repository to share the HandsOn Document, which will help everyone 
 - Step-6 Run the Pipeline
 - Things to keep in Mind
 - Successful Pipeline:
-- Build Job:
-- Push Job:
-- Deploy Job:
+  - Build Job:
+  - Push Job:
+  - Deploy Job:
 - Step-7 Artifacts
 - Pipeline Config with Artifacts
 
