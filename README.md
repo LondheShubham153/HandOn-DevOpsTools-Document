@@ -37,22 +37,23 @@ Created this Repository to share the HandsOn Document, which will help everyone 
 - Step -5 Create a Jenkins Pipeline
 - General Template Form
 - Build Triggers
-- Pipeline
-- Success
-- Failure
+- Pipeline Configuration
+  - Success
+  - Failure
 - Step -6 Setting Up the Agent
 - Generate SSH Key
 - Install JAVA
 - Add the Agent
-- Agent Status
-- Agent Offline
+- Monitor Agent Status
+  - Agent Online
+  - Agent Offline
 - Step -7 Build More Pipelines
 - Pipeline Structure
 - Build the pipeline
-- Pipeline Failed-1
-- Solution1
-- Pipeline Failed-2
-- Solution2
+  - Pipeline Failed-1
+  - Solution1
+  - Pipeline Failed-2
+  - Solution2
 - Verify the Build
 - Step -8  Credential Binding & Image Pushed to DockerHub
 - Generate the Personal Access Token on Docker Hub
